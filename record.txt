@@ -1,0 +1,205 @@
+2023/01/19 03:15 PM
+User Name: David
+Brand & Type: Qiyi
+
+Scramble 1: U2 L2 B2 L U L B F D' R U2 L D R2 F' L D2 B
+Time: 16.42s
+
+Scramble 2: B2 F U B2 D B2 L R2 U R2 D B2 L2 R' F R2 D' B2 F2 D'
+Time: 18.22s
+
+Scramble 3: D R2 U2 F' D' F L2 R2 F2 U' L' F R U' D2 L D L2 B2 L2
+Time: 17.77s
+
+Scramble 4: R' B2 U2 R2 B U' L' R' F' R F L F L' B2 R' U F U2 R'
+Time: 16.24s
+
+Scramble 5: B' R L F R U' R' L' U2 B2 U' R2 D U2 L' U2 L' R2 L' F
+Time: 18.87s
+
+Ao5: 17.53
+
+**********************
+
+2022/12/10 09:00 PM
+User Name: Jack
+Brand & Type: GAN Cube 12 M MAGLEV
+
+Scramble 1: U2 B2 L2 U' R' U L F' D' R B' U' R2 F' R2 B2 L'
+Time: 16.52s
+
+Scramble 2: R' F R B U2 L' B2 U' L2 F2 D2 R2 B2 L2 U'
+Time: 17.63s
+
+Scramble 3: U2 R' B' L2 U' R' B U L' F2 D2 L' U2 R2 F' R2 B'
+Time: 14.64s
+
+Scramble 4: R' U B' U R2 F' R2 B2 L2 U2 R2 B' L2 F2 D2
+Time: 19.72s
+
+Scramble 5: U' L' B' U2 R2 F' R2 B2 L2 U2 R2 B' L2 F2 D2
+Time: 18.69s
+
+Ao5: 17.25
+
+**********************
+
+2023/03/28 08:00 AM
+User Name: Michael
+Brand & Type: MoYu RS3M 2021
+
+Scramble 1: D2 B2 R' F2 D' L' U' B' U' R U B2 L' D' B2 R2 F
+Time: 14.52s
+
+Scramble 2: L U2 B2 L' U R' B' D F' L' U R B U' L2 F
+Time: 19.63s
+
+Scramble 3: L' B2 U2 F' L2 U' B' R2 U R2 D' B2 R F2 L2 U2
+Time: 17.64s
+
+Scramble 4: U B' L' F2 U' R2 B2 U2 R2 B U' R' F' L2 R
+Time: 18.72s
+
+Scramble 5: L' F R' U2 B2 R' U L2 B2 D2 R' B U' R2 F
+Time: 16.69s
+
+Ao5: 17.54
+
+**********************
+
+2023/01/26 05:00 PM
+User Name: William
+Brand & Type: X-Man Tornado V3
+
+Scramble 1: U R B' L F U R2 U' B2 L' F' R U' B' R' U'
+Time: 16.58s
+
+Scramble 2: R2 U2 L' U B' R' F' L2 U' B' R2 U B2 R' U'
+Time: 17.63s
+
+Scramble 3: U' B2 R2 U' L2 R2 B' U2 L F' U2 R' U2 B2 L F
+Time: 18.74s
+
+Scramble 4: B' R' U R U' B2 L' U' R' B U2 R2 B2 L2 F'
+Time: 15.24s
+
+Scramble 5: U R' U' L' B2 U' R2 B2 L' F R2 U2 L' U' B2 R
+Time: 19.87s
+
+Ao5: 17.76
+
+**********************
+
+2023/01/26 05:00 PM
+User Name: James
+Brand & Type: MoYu RS3M 2021
+
+Scramble 1: U' R U B' R' U R B2 U' R2 L' F' L2 U'
+Time: 14.52s
+
+Scramble 2: U2 L' B2 R2 U2 F' R' U2 B' L2 U' R' F'
+Time: 17.63s
+
+Scramble 3: U' L2 B' R U B' R' U' L2 F2 R' U2 L2 B'
+Time: 18.74s
+
+Scramble 4: U B2 R' U' L' U B' R U B' L' R2 F' L2
+Time: 15.24s
+
+Scramble 5: U' R' L2 U' B2 U2 R' F' R2 U2 L2 R2 U2 B'
+Time: 16.69s
+
+Ao5: 16.96
+
+**********************
+
+2023/01/26 05:00 PM
+User Name: Connie
+Brand & Type: GAN Cube 12 M MAGLEV
+
+Scramble 1: U' B2 R' U' L2 U2 R2 D' L2 B' U2 R2 F' L2
+Time: 18.43s
+
+Scramble 2: U' B R' U' L2 U' B' R2 U2 L2 F R' U2 L'
+Time: 15.72s
+
+Scramble 3: U2 B2 L2 R2 U2 B' L' U2 B' R2 U2 L2 R' F
+Time: 17.64s
+
+Scramble 4: U' R U B' L' R' U2 B2 R2 U2 L2 B2 F' R'
+Time: 19.72s
+
+Scramble 5: U' B' R' U' L2 U2 R2 B' U' L2 F R2 U2 B'
+Time: 16.69s
+
+Ao5: 17.12
+
+**********************
+
+2023/02/04 02:00 PM
+User Name: Mark
+Brand & Type: MoYu RS3M 2021
+
+Scramble 1: R' U' R' U R U' B' U' L' B' R2 U R' U' B'
+Time: 15.52s
+
+Scramble 2: R' U2 L2 R U2 L' U' R2 B2 R2 B2 L2 U'
+Time: 17.63s
+
+Scramble 3: U' R' B' L2 U' B2 U2 R' B2 L2 U2 R2 F'
+Time: 18.74s
+
+Scramble 4: B' U2 R2 B' L2 F R U B' L' U2 R' B'
+Time: 15.24s
+
+Scramble 5: R' U' B' U2 R2 B' L2 F' R2 U2 B2 R2 U'
+Time: 16.69s
+
+Ao5: 16.99
+
+**********************
+
+2023/01/26 05:00 PM
+User Name: Samuel
+Brand & Type: GAN Cube 12 M MAGLEV
+
+Scramble 1: L2 U' F' R2 U' B L2 R' U' F R B2 U'
+Time: 14.52s
+
+Scramble 2: U R B' L F U R2 U' B2 L' F' R U' B' R' U'
+Time: 17.63s
+
+Scramble 3: R2 U2 L' U B' R' F' L2 U' B' R2 U B2 R' U'
+Time: 18.74s
+
+Scramble 4: U' B2 R2 U' L2 R2 B' U2 L F' U2 R' U2 B2 L F
+Time: 15.24s
+
+Scramble 5: B' R' U R U' B2 L' U' R' B U2 R2 B2 L2 F'
+Time: 19.72s
+
+Ao5: 16.58
+
+**********************
+2023/01/20 08:05 AM
+User Name: Eren
+Brand & Type: Rs3m
+
+Scramble 1: R2 D2 F U2 F' U B2 F2 L U' F L' R2 F' B L R L D F2 
+Time: 17.58s
+
+Scramble 2: U' R' U2 F L' F2 L2 D U2 F R2 B2 L' F2 U2 R L D' F2 U 
+Time: 21.88s
+
+Scramble 3: U2 L' B' R2 D' R' D' L B L' U' F U' D' U2 D B' F2 D L' 
+Time: 19.64s
+
+Scramble 4: D B2 F U D B R L' R D' R' U' F' D U' F B' F B' L' 
+Time: 15.75s
+
+Scramble 5: U D R' U' R U F' B2 F D B2 R2 L' D L2 R' B U2 F' D 
+Time: 19.37s
+
+Ao5: 18.86
+
+**********************
